@@ -1,6 +1,8 @@
 import { Resend } from 'resend';
 
-const resend = new Resend(process.env.RESEND_API_KEY!);
+function getResend() {
+  return new Resend(process.env.RESEND_API_KEY ?? 'placeholder');
+}
 
 export async function sendBookingConfirmation({
   guestEmail,
@@ -21,7 +23,7 @@ export async function sendBookingConfirmation({
   totalPrice: number;
   bookingId: string;
 }) {
-  await resend.emails.send({
+  await getResend().emails.send({
     from: 'ციხისძირი კოტეჯები <onboarding@resend.dev>',
     to: guestEmail,
     subject: `✅ ჯავშანი დადასტურდა — ${cottageName}`,
@@ -98,7 +100,7 @@ export async function sendAdminBookingNotification({
   const adminEmail = process.env.ADMIN_EMAIL;
   if (!adminEmail) return;
 
-  await resend.emails.send({
+  await getResend().emails.send({
     from: 'ციხისძირი კოტეჯები <onboarding@resend.dev>',
     to: adminEmail,
     subject: `🔔 ახალი ჯავშანი — ${guestName}`,
