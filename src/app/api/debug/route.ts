@@ -8,8 +8,10 @@ export async function GET() {
 
   return NextResponse.json({
     url: url ? url.substring(0, 30) + '...' : 'MISSING',
-    anonKey: anonKey ? anonKey.substring(0, 20) + '...' : 'MISSING',
-    serviceKey: serviceKey ? serviceKey.substring(0, 20) + '...' : 'MISSING',
+    anonKeyLength: anonKey ? anonKey.length : 0,
+    anonKeyEnd: anonKey ? '...' + anonKey.substring(anonKey.length - 10) : 'MISSING',
+    serviceKeyLength: serviceKey ? serviceKey.length : 0,
+    serviceKeyEnd: serviceKey ? '...' + serviceKey.substring(serviceKey.length - 10) : 'MISSING',
     serverAnon: serverAnon ? serverAnon.substring(0, 20) + '...' : 'MISSING',
   });
 }
