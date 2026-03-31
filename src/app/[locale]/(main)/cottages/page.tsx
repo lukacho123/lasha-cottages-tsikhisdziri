@@ -34,7 +34,7 @@ export default async function CottagesPage() {
       <div className="max-w-7xl mx-auto px-4 pb-24">
         {error && (
           <div className="text-center text-red-400 py-8 glass rounded-2xl">
-            {t('error')}
+            {t('error')}: {JSON.stringify(error)}
           </div>
         )}
 
