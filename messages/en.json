@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Home",
+    "cottages": "Cottages",
+    "contact": "Contact",
+    "book": "Book Now"
+  },
+  "hero": {
+    "location": "Tsikhisdziri, Adjara",
+    "subtitle": "Rest by the sea. Escape daily routine and enjoy the peace of nature.",
+    "viewCottages": "View Cottages",
+    "contact": "Contact Us",
+    "slides": [
+      { "title": "Tsikhisdziri Cottages", "subtitle": "Rest by the sea, in the peace of nature" },
+      { "title": "In the Heart of the Forest", "subtitle": "Escape city noise and breathe fresh air" },
+      { "title": "Close to the Sea", "subtitle": "Wake up to the sound of waves every morning" },
+      { "title": "Comfort in Nature", "subtitle": "All amenities in one place — your perfect retreat" }
+    ]
+  },
+  "stats": {
+    "cottages": "Cottages",
+    "guests": "Happy Guests",
+    "rating": "Rating",
+    "support": "Support"
+  },
+  "features": {
+    "title": "Why Us",
+    "heading": "A Unique Experience",
+    "sea": { "title": "By the Sea", "desc": "Cottages just a few steps away from the sea" },
+    "nature": { "title": "In Nature", "desc": "Green surroundings, fresh air and complete serenity" },
+    "security": { "title": "Security", "desc": "24-hour security and monitoring" },
+    "comfort": { "title": "Comfort", "desc": "All modern comforts and services" }
+  },
+  "cta": {
+    "title": "Ready to Relax?",
+    "subtitle": "Choose your preferred cottage and enjoy the nature of Tsikhisdziri",
+    "button": "View Cottages"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Get in Touch",
+    "address": "Tsikhisdziri, Adjara",
+    "phone": "+995 555 000 000",
+    "email": "info@lasha-cottages.ge"
+  },
+  "cottages": {
+    "location": "Tsikhisdziri, Adjara",
+    "heading": "Our Cottages",
+    "subtitle": "Choose your preferred cottage and enjoy nature",
+    "guests": "guests",
+    "bedroom": "bedroom",
+    "perNight": "night",
+    "book": "Book",
+    "empty": "Cottages coming soon",
+    "error": "Failed to load cottages",
+    "excellent": "Excellent",
+    "maxGuests": "Max.",
+    "services": "Services",
+    "scrollDown": "Scroll"
+  },
+  "booking": {
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "selectDates": "Check-in → Check-out",
+    "selectCheckOut": "Select check-out date",
+    "calendarHint": "Click on the calendar and select a date",
+    "guests": "Guests",
+    "guestOption": "guest",
+    "dates": "Dates",
+    "name": "Full Name",
+    "namePlaceholder": "John Smith",
+    "email": "Email",
+    "phone": "Phone",
+    "phonePlaceholder": "+995 555 000 000",
+    "paymentMethod": "Payment Method",
+    "bogBank": "Bank of Georgia",
+    "tbcBank": "TBC Bank",
+    "nights": "nights",
+    "total": "Total",
+    "nextVerify": "Next — Phone Verification",
+    "bogPay": "Pay with BOG",
+    "tbcPay": "Pay with TBC",
+    "bogSecure": "Payment secured by Bank of Georgia",
+    "tbcSecure": "Payment secured by TBC Bank",
+    "blocked": "The selected period is unavailable. Please choose different dates.",
+    "invalidDates": "Please enter valid dates",
+    "errorName": "Please enter your full name",
+    "errorEmail": "Please enter a valid email",
+    "errorPhone": "Please enter your phone number",
+    "loading": "Loading..."
+  },
+  "verify": {
+    "title": "Phone Verification",
+    "sendCode": "Send Code via SMS",
+    "sending": "Sending...",
+    "code": "6-digit code",
+    "confirm": "Confirm Code",
+    "checking": "Checking...",
+    "resend": "Resend",
+    "countdown": "Resend in seconds",
+    "verified": "Phone verified",
+    "back": "← Back"
+  },
+  "success": {
+    "title": "Booking Confirmed!",
+    "subtitle": "Thank you! Your booking has been successfully received.",
+    "emailSending": "Details are being sent to your email...",
+    "backHome": "Back to Home"
+  },
+  "footer": {
+    "description": "Rest in nature, by the sea. All comforts in one place.",
+    "links": "Links",
+    "rights": "All rights reserved"
+  }
+}
