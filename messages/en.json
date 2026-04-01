@@ -40,7 +40,7 @@
     "label": "Contact",
     "title": "Get in Touch",
     "address": "Tsikhisdziri, Adjara",
-    "phone": "+995 555 000 000",
+    "phone": "+995 555 166 619",
     "email": "info@lasha-cottages.ge"
   },
   "cottages": {
@@ -71,7 +71,7 @@
     "namePlaceholder": "John Smith",
     "email": "Email",
     "phone": "Phone",
-    "phonePlaceholder": "+995 555 000 000",
+    "phonePlaceholder": "+995 555 166 619",
     "paymentMethod": "Payment Method",
     "bogBank": "Bank of Georgia",
     "tbcBank": "TBC Bank",

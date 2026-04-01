@@ -40,7 +40,7 @@
     "label": "კონტაქტი",
     "title": "დაგვიკავშირდი",
     "address": "ციხისძირი, აჭარა",
-    "phone": "+995 555 000 000",
+    "phone": "+995 555 166 619",
     "email": "info@lasha-cottages.ge"
   },
   "cottages": {
@@ -71,7 +71,7 @@
     "namePlaceholder": "გიორგი მაისურაძე",
     "email": "ელ-ფოსტა",
     "phone": "ტელეფონი",
-    "phonePlaceholder": "+995 555 000 000",
+    "phonePlaceholder": "+995 555 166 619",
     "paymentMethod": "გადახდის მეთოდი",
     "bogBank": "საქ. ბანკი",
     "tbcBank": "TBC ბანკი",

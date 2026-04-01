@@ -40,7 +40,7 @@
     "label": "Контакт",
     "title": "Свяжитесь с нами",
     "address": "Цихисдзири, Аджария",
-    "phone": "+995 555 000 000",
+    "phone": "+995 555 166 619",
     "email": "info@lasha-cottages.ge"
   },
   "cottages": {
@@ -71,7 +71,7 @@
     "namePlaceholder": "Иван Иванов",
     "email": "Эл. почта",
     "phone": "Телефон",
-    "phonePlaceholder": "+995 555 000 000",
+    "phonePlaceholder": "+995 555 166 619",
     "paymentMethod": "Способ оплаты",
     "bogBank": "Банк Грузии",
     "tbcBank": "TBC Банк",

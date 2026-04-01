@@ -65,7 +65,7 @@ export async function sendBookingConfirmation({
 
         <div style="background: white; border-radius: 16px; padding: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
           <h3 style="color: #374151; margin: 0 0 12px;">📞 კონტაქტი</h3>
-          <p style="color: #6b7280; margin: 4px 0;">ტელეფონი: +995 555 000 000</p>
+          <p style="color: #6b7280; margin: 4px 0;">ტელეფონი: +995 555 166 619</p>
           <p style="color: #6b7280; margin: 4px 0;">ელ-ფოსტა: info@lasha-cottages.ge</p>
           <p style="color: #6b7280; margin: 4px 0;">მისამართი: ციხისძირი, აჭარა</p>
         </div>
